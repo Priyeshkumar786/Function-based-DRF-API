@@ -38,3 +38,5 @@ def movie_detail(request, id):
     if request.method == 'DELETE':
         movie.delete()
         return Response({'msg': 'Movie deleted successfully'})
+
+# added more functions
