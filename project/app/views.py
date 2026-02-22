@@ -41,3 +41,4 @@ def movie_detail(request, id):
 
 # added more functions
 # added more urls
+# added more serializers
