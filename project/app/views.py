@@ -40,3 +40,4 @@ def movie_detail(request, id):
         return Response({'msg': 'Movie deleted successfully'})
 
 # added more functions
+# added more urls
